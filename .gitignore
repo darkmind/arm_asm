@@ -1,1 +1,4 @@
-*.o,*.elf,*.bin,*.sh
+*.o
+*.elf
+*.bin
+*.sh
